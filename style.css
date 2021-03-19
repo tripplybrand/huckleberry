@@ -24,6 +24,7 @@ header {
   padding-top: 48px;
   padding-bottom: 32px;
   padding-left: 24px;
+  padding-right: 24px;
 }
 
 .title {
@@ -45,6 +46,7 @@ main {
   padding-top: 16px;
   padding-bottom: 16px;
   padding-left: 24px;
+  padding-right: 24px;
   background-color: white;
   border-bottom: 5px solid hsl(0deg, 0%, 40%); /*(medium)*/
   max-width: 560px;
